@@ -1,0 +1,36 @@
+h1
+{
+	color:brown
+}
+h1
+{
+	text-align:center
+}
+h1
+{
+	font-family: "Georgia"
+}
+h1
+{
+	font-size: 50px
+}
+h2
+{
+	color:brown
+}
+h2
+{
+	text-align: center 
+}
+h2
+{
+	font-family: "Georgia"
+}
+body
+{
+  background-image: url("blo.jpg")
+}
+body
+{
+  background-size: cover
+}
